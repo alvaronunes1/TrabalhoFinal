@@ -1,0 +1,2 @@
+O valor total do pedido foi 
+R$ 35.0
